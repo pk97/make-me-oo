@@ -12,4 +12,6 @@ public class DistanceAndDirectionCalculator {
         double yDistance = y2 - y1;
         return Math.atan2(yDistance, xDistance);
     }
+
+
 }
